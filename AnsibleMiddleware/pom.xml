@@ -232,7 +232,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-sqs</artifactId>
-             <version>1.11.271</version>
+             <version>1.11.976</version>
             <exclusions>
                 <exclusion>
                     <artifactId>commons-logging</artifactId>
